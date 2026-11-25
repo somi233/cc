@@ -11,7 +11,7 @@ Claude 中转接口 · 个人接入指南
 Opus	claude-opus-x-x	复杂推理、长文档
 Sonnet	claude-sonnet-x-x	日常编码、对话
 Haiku	claude-haiku-x-x	快速、低成本任务
-暂不支持:____(在此写明不支持的模型)
+暂不支持:fable
 实际可用模型以后台列表为准,可能随上游调整而变动。
 快速开始
 Claude Code
